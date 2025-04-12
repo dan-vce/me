@@ -2,6 +2,7 @@
   import svelteLogo from './assets/svelte.svg'
   import viteLogo from '/vite.svg'
   import Counter from './lib/Counter.svelte'
+  import "./app.css"
 </script>
 
 <main>
@@ -23,7 +24,7 @@
     Check out <a href="https://github.com/sveltejs/kit#readme" target="_blank" rel="noreferrer">SvelteKit</a>, the official Svelte app framework powered by Vite!
   </p>
 
-  <p class="read-the-docs">
+  <p class="test-4xl font-bold text-center text-blue-600 mt-10">
     Click on the Vite and Svelte logos to learn more
   </p>
 </main>
